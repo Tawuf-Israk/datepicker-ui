@@ -8,6 +8,6 @@ This component focuses on structure and styling, demonstrating how to create the
 
 🚀 Live Demo
 
-Live Preview: (https://tawuf-israk.github.io/datepicker-ui/)
+Live Preview: https://tawuf-israk.github.io/datepicker-ui/
 
-Repository: https://github.com/Tawuf-Israk/datepicker-ui
+Repository: https://github.com/Tawuf-Israk/datepicker-ui.git
